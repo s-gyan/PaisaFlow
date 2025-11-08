@@ -1,0 +1,5 @@
+{
+  "name": "PaisaFlow",
+  "description": "A modern and intuitive web application to split expenses among friends and family. Easily create groups, add expenses with various split options (equal, custom, percentage), and track who owes whom with a simplified balance summary. Settle up debts within the app to keep your finances clear and organized.",
+  "requestFramePermissions": []
+}
